@@ -1,0 +1,1 @@
+clingo -c n=4 Q.lp 0
